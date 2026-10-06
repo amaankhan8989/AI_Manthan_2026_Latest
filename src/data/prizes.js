@@ -1,0 +1,95 @@
+export const prizes = {
+  eyebrow: 'Incentives & Grants',
+  heading: 'The Prize Vault',
+  body: 'Transparent, non-dilutive cash rewards, compute credits, and fast-track founder intros.',
+  pool: {
+    badge: 'One Arena • One Vault',
+    title: 'Total Prize Pool',
+    amount: '₹1,00,000+',
+    body: 'One unified vault of unrestricted cash prizes, special grants, cloud credit bundles, and fast-track founder intros — awarded across the Grand Finale.',
+    chips: ['CASH PRIZES', 'SPECIAL GRANTS', 'CLOUD CREDITS'],
+  },
+  bounties: [
+    {
+      icon: 'smart_toy',
+      color: 'azure',
+      label: 'Special Bounty',
+      title: 'Best Agent Architecture',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'palette',
+      color: 'pink',
+      label: 'Special Bounty',
+      title: 'Craft UI & UX Precision',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'female',
+      color: 'emerald',
+      label: 'Special Bounty',
+      title: 'Women in Tech Spotlight',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'rocket_launch',
+      color: 'amber',
+      label: 'Special Bounty',
+      title: 'Best First-Time Builders',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'code',
+      color: 'azure',
+      label: 'Special Bounty',
+      title: 'Best Use of Open Source',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'how_to_vote',
+      color: 'rose',
+      label: 'Special Bounty',
+      title: 'Community Choice Award',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'public',
+      color: 'orange',
+      label: 'Special Bounty',
+      title: 'Best AI for Bharat',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'eco',
+      color: 'lime',
+      label: 'Special Bounty',
+      title: 'Sustainability Champion',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'lightbulb',
+      color: 'indigo',
+      label: 'Special Bounty',
+      title: 'Best Campus Startup Pitch',
+      amount: '₹1500 Grant',
+    },
+    {
+      icon: 'star',
+      color: 'sky',
+      label: 'Special Bounty',
+      title: 'Rising Star of the Arena',
+      amount: '₹1500 Grant',
+    },
+  ],
+  bountiesNote:
+    'Special grants are awarded exclusively to participants outside the winning teams — recipients are chosen by the jury from the remaining pool of eligible participants.',
+}
+
+export const cta = {
+  badge: 'APPLICATION STAGE 01 IS OPEN',
+  heading: 'Ready to build software that creates a lasting ripple?',
+  body: 'Register now — free entry, verified certificates for all participants, and a 24-hour high-velocity creation sprint at AITR, Indore.',
+  primary: { label: 'Registration', href: 'https://unstop.com/p/ai-manthan-2k26-acropolis-institute-of-technology-and-research-indore-1751106', icon: 'rocket_launch' },
+  secondary: { label: 'Join WhatsApp Community', href: 'https://whatsapp.com/channel/0029Vb87c3eDJ6GyyNKLgx0L', icon: 'forum' },
+  footnotes: ['ZERO REGISTRATION FEES', '24-HOUR OFFLINE CRUCIBLE', '₹1,00,000+ PRIZE POOL'],
+}
