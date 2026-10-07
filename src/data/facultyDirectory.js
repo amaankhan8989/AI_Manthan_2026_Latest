@@ -280,7 +280,7 @@ export const peopleDirectory = [
     name: 'Dr. Amit Sharma',
     role: 'Mentor',
     title: 'Professor, Computer Science, AITR Indore',
-    org: 'Acropolis Institute of Technology & Research',
+    org: 'Acropolis Institute of Technology and Research',
     bio: 'Specializes in AI, Machine Learning, and Innovation in Education. Mentors student teams on model architectures and AI solutions.',
     tag: 'AITR Indore',
     badge: 'Hackathon Mentor',
@@ -290,7 +290,7 @@ export const peopleDirectory = [
     linkedin: 'https://linkedin.com',
     email: 'amit.sharma@acropolis.in',
     about:
-      'Dr. Amit Sharma is a Professor in the Department of Computer Science at Acropolis Institute of Technology & Research with over 15 years of experience in AI, Machine Learning, and tech innovation.',
+      'Dr. Amit Sharma is a Professor in the Department of Computer Science at Acropolis Institute of Technology and Research with over 15 years of experience in AI, Machine Learning, and tech innovation.',
     expertise: ['Artificial Intelligence', 'Machine Learning', 'Data Analytics', 'Computer Vision'],
     stats: [
       { value: '15+', label: 'Years in Academia' },
@@ -313,7 +313,7 @@ export const peopleDirectory = [
     name: 'Dr. Priya Nair',
     role: 'Mentor',
     title: 'Professor, Data Science, AITR Indore',
-    org: 'Acropolis Institute of Technology & Research',
+    org: 'Acropolis Institute of Technology and Research',
     bio: 'Focuses on Data Analytics, Social Impact, and Technology for Good. Mentors teams on statistical modeling and data pipelines.',
     tag: 'AITR Indore',
     badge: 'Hackathon Mentor',
@@ -323,7 +323,7 @@ export const peopleDirectory = [
     linkedin: 'https://linkedin.com',
     email: 'priya.nair@acropolis.in',
     about:
-      'Dr. Priya Nair is a Professor of Data Science at Acropolis Institute of Technology & Research. She focuses on data analytics for social impact and data pipelines.',
+      'Dr. Priya Nair is a Professor of Data Science at Acropolis Institute of Technology and Research. She focuses on data analytics for social impact and data pipelines.',
     expertise: ['Data Science', 'Public Health Analytics', 'Statistical Modeling', 'Civic Data'],
     stats: [
       { value: '14+', label: 'Years Teaching' },
@@ -504,6 +504,39 @@ export const peopleDirectory = [
       'Evaluates continuous integration and system reliability.',
     ],
   },
+  {
+  slug: 'pravin-karma-mentor',
+  group: 'mentors',
+  name: 'Dr. Pravin Karma',
+  img: '/Jury/Prawin Karma.jpg',
+  role: 'Mentor',
+  title: 'Associate Professor, IET-DAVV',
+  org: 'Institute of Engineering & Technology, DAVV',
+  bio: 'Associate Professor at IET-DAVV with expertise in Computer Networks and related areas, actively mentoring students and hackathon teams.',
+  tag: 'IET-DAVV',
+  badge: 'Mentor Panel',
+  initials: 'PK',
+  location: 'Indore, Madhya Pradesh',
+  hackathons: 'Hackathon Mentor',
+  linkedin: 'https://linkedin.com/in/pravin-karma-ietdavv',
+  email: '',
+  about:
+    'Mr. Pravin Karma is an Associate Professor at the Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya (IET-DAVV), Indore. His academic and research interests include Computer Networks and related areas. He has also been actively involved in mentoring students and supporting Smart India Hackathon initiatives at DAVV.',
+  expertise: ['Computer Networks','Network Technologies','Technical Mentorship','Hackathon Mentoring'],
+  stats: [
+    { value: '20+', label: 'Years at DAVV' },
+    { value: 'Associate', label: 'Professor' },
+    { value: 'SIH', label: 'Hackathon Mentor' },
+  ],
+  education: [
+    { degree: 'M.E.', school: 'Devi Ahilya Vishwavidyalaya' },
+  ],
+  notableWork: [
+    'Associate Professor at IET-DAVV, Indore.',
+    'Research interests include Computer Networks and related areas.',
+    'Mentor and supporter of Smart India Hackathon initiatives at DAVV.',
+  ],
+},
 
   /* ---------------- Faculty Convener & Leadership (1) ---------------- */
   {
@@ -520,7 +553,7 @@ export const peopleDirectory = [
     tag: 'Convener and HOD',
     footerTag: 'AI MANTHAN CONVENER',
     bullets: ['HOD: IT and Data Science', 'Convener: AI Manthan 2.0'],
-    quote: '“Transforming curiosity into innovation through AI & Data Science excellence.”',
+    quote: 'Transforming curiosity into innovation through AI & Data Science excellence.',
     location: 'Indore, Madhya Pradesh',
     badge: 'Convener',
     hackathons: 'Convener, AI Manthan 2.0',
