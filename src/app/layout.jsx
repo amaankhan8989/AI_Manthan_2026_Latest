@@ -40,7 +40,7 @@ export const metadata = {
     template: '%s | AI MANTHAN 2.0',
   },
   description:
-    "AI MANTHAN 2.0 — the national-level AI hackathon at Acropolis Institute of Technology & Research, Indore. A 24-hour offline hackathon across 12 AI challenge domains and a ₹1,00,000+ prize pool. October 14–16, 2026.",
+    "AI MANTHAN 2.0 — the national-level AI hackathon at Acropolis Institute of Technology and Research, Indore. A 24-hour offline hackathon across 12 AI challenge domains and a ₹1,00,000+ prize pool. October 14–16, 2026.",
   keywords: [
     'AI Manthan 2.0',
     'AI Manthan hackathon',
@@ -57,8 +57,8 @@ export const metadata = {
     'IIT NIT BITS hackathon',
   ],
   authors: [{ name: 'Acropolis — AI MANTHAN 2.0' }],
-  creator: 'Acropolis Institute of Technology & Research',
-  publisher: 'Acropolis Institute of Technology & Research, Indore',
+  creator: 'Acropolis Institute of Technology and Research',
+  publisher: 'Acropolis Institute of Technology and Research, Indore',
 
   // Canonical + URL
   alternates: { canonical: '/' },

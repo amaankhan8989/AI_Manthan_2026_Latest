@@ -34,7 +34,7 @@ export default function EventJsonLd() {
     },
     organizer: {
       '@type': 'Organization',
-      name: 'Acropolis Institute of Technology & Research, Indore',
+      name: 'Acropolis Institute of Technology and Research, Indore',
       url: process.env.NEXT_PUBLIC_WEBSITE_URL || 'https://www.acropolis.in/',
     },
     offers: {
